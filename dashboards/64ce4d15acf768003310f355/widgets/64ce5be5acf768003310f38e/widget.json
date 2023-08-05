@@ -1,0 +1,98 @@
+{
+    "_dataSourcePermission": "owner",
+    "_toDisableOptionsList": {
+        "widgets": {
+            "duplicate": false
+        }
+    },
+    "custom": {
+        "barcolumnchart": {
+            "addTotalOption": "No",
+            "customMenuEnabled": false,
+            "isTypeValid": false,
+            "sortBreakByOption": "Default",
+            "sortCategoriesOption": "Default",
+            "type": "wiserFilterWidget",
+            "updateOnEveryChange": true
+        }
+    },
+    "dashboardid": "64ce4d15acf768003310f355",
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aSampleIAAaRetail",
+        "fullname": "LocalHost/Sample Retail",
+        "id": "aLOCALHOST_aSAMPLEIAAaRETAIL",
+        "title": "Sample Retail"
+    },
+    "desc": null,
+    "displayMenu": false,
+    "metadata": {
+        "ignore": {
+            "all": false,
+            "dimensions": [
+            ],
+            "ids": [
+            ]
+        },
+        "panels": [
+            {
+                "items": [
+                    {
+                        "instanceid": "88124-6D3B-9C",
+                        "jaql": {
+                            "column": "ProductName",
+                            "datatype": "text",
+                            "dim": "[DimProducts.ProductName]",
+                            "merged": true,
+                            "table": "DimProducts",
+                            "title": "ProductName"
+                        }
+                    }
+                ],
+                "name": "Filter Dimension"
+            },
+            {
+                "items": [
+                ],
+                "name": "filters"
+            }
+        ],
+        "usedFormulasMapping": {
+        }
+    },
+    "oid": "64ce5be5acf768003310f38e",
+    "options": {
+        "autoUpdateOnEveryChange": true,
+        "dashboardFiltersMode": "select",
+        "selector": false
+    },
+    "questQueryResult": {
+        "isActive": false,
+        "isPending": false
+    },
+    "realTimeRefreshing": false,
+    "style": {
+        "ignoreDashboardFilter": true,
+        "multipleSelect": true,
+        "narration": {
+            "aggregation": "sum",
+            "display": "above",
+            "enabled": false,
+            "format": "bullets",
+            "labels": [
+                {
+                    "id": "productname",
+                    "plural": "ProductName",
+                    "singular": "ProductName",
+                    "title": "ProductName"
+                }
+            ],
+            "up_sentiment": "good",
+            "verbosity": "medium"
+        }
+    },
+    "subtype": "wiserFilterWidget",
+    "title": "",
+    "type": "wiserFilterWidget",
+    "wasRendered": false
+}

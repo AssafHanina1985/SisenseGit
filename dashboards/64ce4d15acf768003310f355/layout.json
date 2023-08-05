@@ -9,7 +9,28 @@
                                 "elements": [
                                     {
                                         "defaultWidth": 512,
-                                        "height": "444px",
+                                        "height": 76,
+                                        "maxHeight": 1024,
+                                        "maxWidth": 2048,
+                                        "minHeight": 73,
+                                        "minWidth": 128,
+                                        "widgetid": "64ce5be5acf768003310f38e"
+                                    }
+                                ],
+                                "index": 0,
+                                "pxlWidth": 1437,
+                                "stretchable": false,
+                                "width": 100
+                            }
+                        ]
+                    },
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": "228px",
                                         "maxHeight": 1028,
                                         "maxWidth": 1028,
                                         "minHeight": 64,
@@ -26,7 +47,7 @@
                                 "elements": [
                                     {
                                         "defaultWidth": 512,
-                                        "height": "444px",
+                                        "height": "228px",
                                         "maxHeight": 2048,
                                         "maxWidth": 2048,
                                         "minHeight": 96,
@@ -54,7 +75,11 @@
                                         "minWidth": 128,
                                         "widgetid": "64ce55ebacf768003310f36c"
                                     }
-                                ]
+                                ],
+                                "index": 0,
+                                "pxlWidth": 1439,
+                                "stretchable": false,
+                                "width": 100
                             }
                         ]
                     }
@@ -65,15 +90,15 @@
             }
         ],
         "container": {
-            "sizzle1691243982859": {
+            "sizzle1691245487589": {
                 "undefined": {
                     "legend": [
-                        22,
+                        25,
                         0,
                         false
                     ],
                     "parentNode": [
-                        86.55241191971479,
+                        44.93853105434905,
                         27,
                         true
                     ]

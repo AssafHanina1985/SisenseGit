@@ -294,7 +294,6 @@
         "selector": true,
         "triggersDomready": true
     },
-    "realTimeRefreshing": false,
     "style": {
         "dataLimits": {
             "categoriesCapacity": 100000,
