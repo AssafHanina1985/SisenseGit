@@ -9,7 +9,7 @@
                                 "elements": [
                                     {
                                         "defaultWidth": 512,
-                                        "height": "224px",
+                                        "height": "444px",
                                         "maxHeight": 1028,
                                         "maxWidth": 1028,
                                         "minHeight": 64,
@@ -21,21 +21,38 @@
                                 "pxlWidth": 718.5,
                                 "stretchable": false,
                                 "width": 50
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": "444px",
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 96,
+                                        "minWidth": 128,
+                                        "widgetid": "64ce52a6acf768003310f35a"
+                                    }
+                                ],
+                                "index": 1,
+                                "pxlWidth": 718.5,
+                                "stretchable": false,
+                                "width": 50
                             }
                         ]
                     }
                 ],
                 "index": 0,
-                "pxlWidth": 0,
+                "pxlWidth": 1439,
                 "width": 100
             }
         ],
         "container": {
-            "sizzle1691137655920": {
+            "sizzle1691242789304": {
                 "undefined": {
                     "parentNode": [
-                        101,
-                        38,
+                        109.0556616596819,
+                        27,
                         true
                     ]
                 }
