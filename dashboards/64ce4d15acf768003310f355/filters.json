@@ -1,0 +1,30 @@
+{
+    "filters": [
+        {
+            "isCascading": false,
+            "jaql": {
+                "collapsed": true,
+                "column": "Region",
+                "datasource": {
+                    "address": "LocalHost",
+                    "database": "aSampleIAAaRetail",
+                    "fullname": "localhost/Sample Retail",
+                    "id": "localhost_aSampleIAAaRetail",
+                    "live": false,
+                    "title": "Sample Retail"
+                },
+                "datatype": "text",
+                "dim": "[DimCountries.Region]",
+                "filter": {
+                    "all": true,
+                    "explicit": false,
+                    "multiSelection": true
+                },
+                "isDashboardFilter": true,
+                "merged": true,
+                "table": "DimCountries",
+                "title": "Region"
+            }
+        }
+    ]
+}
