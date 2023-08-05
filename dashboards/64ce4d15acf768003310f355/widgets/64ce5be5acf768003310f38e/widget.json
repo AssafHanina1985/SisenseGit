@@ -70,7 +70,6 @@
         "isActive": false,
         "isPending": false
     },
-    "realTimeRefreshing": false,
     "style": {
         "ignoreDashboardFilter": true,
         "multipleSelect": true,
