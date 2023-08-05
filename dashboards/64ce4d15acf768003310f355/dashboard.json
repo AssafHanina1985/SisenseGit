@@ -36,6 +36,7 @@
     "title": "Git_int",
     "widgets": [
         "./widgets/64ce4d15acf768003310f356/widget.json",
-        "./widgets/64ce52a6acf768003310f35a/widget.json"
+        "./widgets/64ce52a6acf768003310f35a/widget.json",
+        "./widgets/64ce55ebacf768003310f36c/widget.json"
     ]
 }

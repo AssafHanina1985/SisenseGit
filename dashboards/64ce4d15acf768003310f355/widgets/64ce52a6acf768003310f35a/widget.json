@@ -143,7 +143,6 @@
         "isActive": false,
         "isPending": false
     },
-    "realTimeRefreshing": false,
     "style": {
         "automaticHeight": false,
         "convolution": {

@@ -18,7 +18,7 @@
                                     }
                                 ],
                                 "index": 0,
-                                "pxlWidth": 718.5,
+                                "pxlWidth": 719.5,
                                 "stretchable": false,
                                 "width": 50
                             },
@@ -35,9 +35,26 @@
                                     }
                                 ],
                                 "index": 1,
-                                "pxlWidth": 718.5,
+                                "pxlWidth": 719.5,
                                 "stretchable": false,
                                 "width": 50
+                            }
+                        ]
+                    },
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 384,
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 96,
+                                        "minWidth": 128,
+                                        "widgetid": "64ce55ebacf768003310f36c"
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -48,10 +65,15 @@
             }
         ],
         "container": {
-            "sizzle1691242789304": {
+            "sizzle1691243982859": {
                 "undefined": {
+                    "legend": [
+                        22,
+                        0,
+                        false
+                    ],
                     "parentNode": [
-                        109.0556616596819,
+                        86.55241191971479,
                         27,
                         true
                     ]
